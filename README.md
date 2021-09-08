@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raphaelavergud
+- 👀 I’m interested in running, sweets and pastries
+- 🌱 I’m currently learning python and how to fix bikes myself
+- 📫 raphaelavergud@icloud.com
