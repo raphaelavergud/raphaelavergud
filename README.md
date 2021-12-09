@@ -1,5 +1,5 @@
-- 👋  Hi, I’m *@raphaelavergud*
-- 🌱  *Learning Python*
+- 👋  Hi, I’m @raphaelavergud
+- 🌱  Learning Python
 - 👀  I like *eating sweets* & *running*
 - 🐥  [my Twitter](https://twitter.com/raphaelavergud/)
 - 📫  Email me: raphaelavergud@icloud.com
