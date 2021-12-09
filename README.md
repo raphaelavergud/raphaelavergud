@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @raphaelavergud
-- 👀 I’m interested in running, sweets and pastries
+- 🌱 Learning Python
+- 👀 I like eating sweets & running
+- 🐥 https://twitter.com/raphaelavergud
 - 📫 raphaelavergud@icloud.com
