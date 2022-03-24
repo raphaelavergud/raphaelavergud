@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @raphaelavergud, I like python🐍 & django💘
+- 👋  Hi, I’m Raphaela, I like python🐍 & django💘
 - 👀  I also like *eating sweets* & *running*
 - 🐥  [Twitter](https://twitter.com/raphaelavergud/)
 - 📸  [Instagram](https://www.instagram.com/raphaelavergud/)
