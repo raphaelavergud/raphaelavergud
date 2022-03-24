@@ -1,6 +1,5 @@
-- 👋  Hi, I’m @raphaelavergud
-- 🌱  Python & Django
-- 👀  I like *eating sweets* & *running*
+- 👋  Hi, I’m @raphaelavergud, I like python🐍 & django💘
+- 👀  I also like *eating sweets* & *running*
 - 🐥  [Twitter](https://twitter.com/raphaelavergud/)
 - 📸  [Instagram](https://www.instagram.com/raphaelavergud/)
 - 📫  Email me: raphaelavergud@icloud.com
