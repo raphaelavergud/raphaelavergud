@@ -2,7 +2,7 @@
 <br></br>
 - 💘 I like python🐍 & django
 - 🌱 I'm learning Golang
-- 👀  I like *eating sweets* & *running*
+- 👀  I like *running* & *eating sweets*
 <br></br>
 I'm always looking to learn and improve, if you have suggestions for me let me know 💘
 
